@@ -1,0 +1,10 @@
+textarea {
+    width: 97%;
+    height: 60vh;
+    background: transparent;
+    border: none;
+}
+
+.code-editor {
+    box-sizing: border-box;
+}

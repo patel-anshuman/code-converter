@@ -1,0 +1,134 @@
+/* App.css */
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 20px;
+  /* background: linear-gradient(180deg, rgba(234,238,174,1) 0%, rgb(164, 225, 239) 50%); */
+  background-color: #d5efd5;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Language Selector Styles */
+.language-selector {
+  margin-bottom: 20px;
+}
+
+/* Code Editor Styles */
+.code-editor {
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  min-height: 200px;
+}
+
+/* Buttons Styles */
+.btn-group {
+  margin-bottom: 20px;
+}
+
+/* Message Display Styles */
+.message-display {
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-height: 200px;
+  overflow-y: auto;
+}
+
+/* App.css */
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Language Selector Styles */
+.actions {
+  width: 100%;
+  margin: auto;
+  text-align: left;
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+/* Select Styles */
+select {
+  width: 150px;
+  padding: 7.6px;
+  border: none;
+  background-color: rgb(77, 125, 95);
+  border-radius: 4px;
+  border-radius: 20px 0px 0px 20px;
+  color: white;
+}
+
+/* Button Styles */
+.btn {
+  margin-right: 10px;
+  padding: 8px 15px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(77, 125, 95);
+  color: white;
+}
+
+.actions>button:nth-child(2) {
+  border-radius: 0px 20px 20px 0px;
+}
+
+.row {
+  display: flex;
+  gap: 20px;
+  height: 80vh;
+  justify-content: center;
+  align-items: flex-start;
+} 
+.col {
+  width: 49%;
+  height: 93%;
+  background-color: #ffffff70;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+h3 {
+  margin: 0px;
+  margin-bottom: 10px;
+}
+/* Code Editor Styles */
+/* Adjust the styles for your CodeEditor component here */
+
+/* Message Display Styles */
+/* Adjust the styles for your MessageDisplay component here */
