@@ -1,9 +1,6 @@
 # Code Converter
 
-A versatile, OpenAI-powered web app to convert code in various languages, debug, and ensure quality seamlessly.
-
 ## Overview
-
 Code Converter is a powerful web application designed to simplify the process of converting code between different programming languages. With the integration of OpenAI, it provides an intelligent and efficient way to seamlessly translate and debug code snippets.
 
 ## Features
